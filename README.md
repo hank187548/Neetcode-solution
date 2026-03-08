@@ -29,6 +29,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/hank187548/Neetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/hank187548/Neetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/hank187548/Neetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
@@ -59,4 +60,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/hank187548/Neetcode-solution/tree/main/0036-valid-sudoku/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/hank187548/Neetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
