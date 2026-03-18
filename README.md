@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/hank187548/Neetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/hank187548/Neetcode-solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/hank187548/Neetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hank187548/Neetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/hank187548/Neetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/hank187548/Neetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/hank187548/Neetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -69,4 +70,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/hank187548/Neetcode-solution/tree/main/0155-min-stack/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hank187548/Neetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
