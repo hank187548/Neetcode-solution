@@ -8,6 +8,7 @@
 | [0036-valid-sudoku](https://github.com/hank187548/Neetcode-solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/hank187548/Neetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/hank187548/Neetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/hank187548/Neetcode-solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hank187548/Neetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/hank187548/Neetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/hank187548/Neetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -71,6 +72,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/hank187548/Neetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/hank187548/Neetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/hank187548/Neetcode-solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/hank187548/Neetcode-solution/tree/main/0155-min-stack/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -94,4 +96,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/hank187548/Neetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/hank187548/Neetcode-solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
