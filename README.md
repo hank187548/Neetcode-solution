@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/hank187548/Neetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/hank187548/Neetcode-solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hank187548/Neetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hank187548/Neetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/hank187548/Neetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/hank187548/Neetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/hank187548/Neetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -98,10 +99,15 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/hank187548/Neetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/hank187548/Neetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hank187548/Neetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/hank187548/Neetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/hank187548/Neetcode-solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0853-car-fleet](https://github.com/hank187548/Neetcode-solution/tree/main/0853-car-fleet/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hank187548/Neetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
