@@ -42,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/hank187548/Neetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/hank187548/Neetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/hank187548/Neetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/hank187548/Neetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/hank187548/Neetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/hank187548/Neetcode-solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Divide and Conquer
@@ -99,6 +100,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/hank187548/Neetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/hank187548/Neetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0125-valid-palindrome](https://github.com/hank187548/Neetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hank187548/Neetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
