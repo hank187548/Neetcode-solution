@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/hank187548/Neetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/hank187548/Neetcode-solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hank187548/Neetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/hank187548/Neetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hank187548/Neetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/hank187548/Neetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/hank187548/Neetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -23,6 +24,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/hank187548/Neetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/hank187548/Neetcode-solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/hank187548/Neetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/hank187548/Neetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/hank187548/Neetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/hank187548/Neetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/hank187548/Neetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -112,4 +114,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hank187548/Neetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hank187548/Neetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
