@@ -29,6 +29,7 @@
 | [0242-valid-anagram](https://github.com/hank187548/Neetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/hank187548/Neetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/hank187548/Neetcode-solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/hank187548/Neetcode-solution/tree/main/0567-permutation-in-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@
 | [0125-valid-palindrome](https://github.com/hank187548/Neetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/hank187548/Neetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/hank187548/Neetcode-solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/hank187548/Neetcode-solution/tree/main/0567-permutation-in-string/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hank187548/Neetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/hank187548/Neetcode-solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/hank187548/Neetcode-solution/tree/main/0567-permutation-in-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +107,7 @@
 | [0042-trapping-rain-water](https://github.com/hank187548/Neetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/hank187548/Neetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hank187548/Neetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0567-permutation-in-string](https://github.com/hank187548/Neetcode-solution/tree/main/0567-permutation-in-string/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
