@@ -136,4 +136,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/hank187548/Neetcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/hank187548/Neetcode-solution/tree/main/0292-nim-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/hank187548/Neetcode-solution/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/hank187548/Neetcode-solution/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
